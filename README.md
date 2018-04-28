@@ -1,1 +1,1 @@
-# Dynamic-Recomender-system
+# Collaborative Recurrent Neural Networks for Dynamic Recommender Systems
